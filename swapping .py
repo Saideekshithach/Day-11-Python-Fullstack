@@ -12,7 +12,7 @@ print(b)"""
 b=20
 a,b=b,a
 print("a value is",a)
-print)"b value is",b)
+print("b value is",b)
 """
 """a=10
 b=20
@@ -20,7 +20,7 @@ a=a+b
 b=a-b
 a=a-b
 print("after swapping",a)
-print("after swappung",b)"""
+print("after swapping",b)"""
 
 """a=int(input())
 b=int(input())
